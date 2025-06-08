@@ -26,7 +26,3 @@ A powerful and user-friendly React-based frontend for generating, refining, and 
 - **Tailwind CSS** / **CSS Modules** for styling (customizable)
 - **dotenv** for environment configs
 
----
-
-## 🧱 Folder Structure
-
